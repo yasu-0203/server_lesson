@@ -1,0 +1,8 @@
+    1  cd root
+    2  ls
+    3  cd server_lesson
+    4  ls
+    5  ls linux_practice2
+    6  history 300
+    7  history 300 > /root/server_lesson/linux_practice2
+    8  history 300 > /root/server_lesson/linux_practice2/exec_command.log
