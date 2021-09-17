@@ -21,3 +21,8 @@
 指定したファイルの内容をターミナル上に出力  
 - vi  
 ターミナル上でエディタを即時起動  
+
+## 打ったコマンド
+
+- mv documents/gizumo{20..40}.md trash  
+- touch documents/gizumo{01..50}.md  
